@@ -1,0 +1,12 @@
+header: Viber button in a support options bar launching nothing
+description: The support chat in the Viber web app does not open when you click on the Viber icon
+severity: minor
+priority: medium
+environment: Google Chrome 109.0.5414.120
+steps_to_reproduce:
+step_1 Open https://capital.com/ page
+step_2 Click on the support icon (headphones) on the right side of page
+step_3 Click on a Viber icon
+expected_result: The support chat in the Viber web app is opened
+actual_result: The support chat in the Viber web app is not opened
+attachments: -
